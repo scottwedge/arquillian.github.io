@@ -235,9 +235,9 @@ http://sass-lang.com[Sass] and http://compass-style.org[Compass] are the preferr
 * http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html[Sass Reference]
 * http://compass-style.org/reference/compass[Compass Reference]
 
-Source files are indented using 2 spaces. Haml files require the same indentation size throughout. Ruby hashes should have no leading or trailing spaces and options such be seperated by a comma followed by a space (e.g., `{:href=>'http://arquillian.org', title=>'Arquillian Project Site'}`).
+Source files are indented using 2 spaces. Haml files require the same indentation size throughout. Ruby hashes should have no leading or trailing spaces and options such be separated by a comma followed by a space (e.g., `{:href=>'http://arquillian.org', title=>'Arquillian Project Site'}`).
 
-Note: In a HAML document, if you use the equals seperator (`=`) rather than a greater than equals (`=>`) in a hash key-value assignment, Awestruct will crash.
+Note: In a HAML document, if you use the equals separator (`=`) rather than a greater than equals (`=>`) in a hash key-value assignment, Awestruct will crash.
 
 == Page structure
 
@@ -373,9 +373,9 @@ The prolog is a set of name/value pairs defined at the top of the file in betwee
 
 * `layout` (always "guide")
 * `title` (use title capitalization)
-* `authors` (comma seperated list of original authors of the guide)
-* `translators` (comma seperated list, for translations only)
-* `tags` (comma seperated list)
+* `authors` (comma separated list of original authors of the guide)
+* `translators` (comma separated list, for translations only)
+* `tags` (comma separated list)
 * `guide_summary` (summary text to be used in the guide index)
 * `guide_group` (numeric; 1 = beginner, 2 = intermediate, 3 = advanced)
 * `guide_order` (numeric weight; less is more)
